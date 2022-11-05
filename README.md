@@ -3,7 +3,7 @@
 )
 <h1 align="center">Hi 👋, I'm Samitha Perera</h1>
 <h3 align="center">A Data Science Student</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samithasandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="samithasandeepa" /> </p>
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me **samithasandeepa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/samitha perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samitha perera" height="30" width="40" /></a>
 <a href="https://kaggle.com/samitha_perera_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samitha_perera_99" height="30" width="40" /></a>
 <a href="https://fb.com/samitha sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samitha sandeepa" height="30" width="40" /></a>
