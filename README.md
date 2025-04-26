@@ -4,8 +4,6 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
-- 🌱 I’m currently learning **Python, Machine Learning, Cloud Computing etc**
-
 - 📫 How to reach me **samithasandeepa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
